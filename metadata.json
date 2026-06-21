@@ -1,0 +1,6 @@
+{
+  "name": "Height & Health",
+  "description": "A height growth and health companion tracking sleep, nutrition, and exercise, with a personalized AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
